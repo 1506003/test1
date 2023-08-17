@@ -4,11 +4,11 @@ just test
 
 ## python local run
 
+```
 python webserver2.py
 
 ```
 ### Docker
-```
 - docer build image and run
   ```
   docker build -f Dockerfile . -t web-server-test
